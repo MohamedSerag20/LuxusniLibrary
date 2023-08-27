@@ -1,17 +1,10 @@
-# my_library
+# Library App
 
-A new Flutter project.
+Welcome to the Library App project! This mobile application, built using Flutter and Dart, aims to provide users with a delightful and immersive experience of managing their reading journey. With this app, you can easily add books you have read to different categories, choose the book type, record the date you read it, and enjoy a visually appealing design that replicates the ambiance of a real library.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# luxusni-library
+- Book Management: Add books you have read to various categories, allowing you to organize and keep track of your reading progress.
+- Book Type Selection: Choose the type of book from a wide range of genres, including fiction, non-fiction, self-help, and more.
+- Reading Date Recording: Record the date you read each book, enabling you to maintain a comprehensive timeline of your reading journey.
+- Immersive Design: The app's design is carefully crafted to provide a fancy and visually pleasing experience, making you feel as if you are inside a real library.
